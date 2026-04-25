@@ -1,6 +1,6 @@
 # elevateU 
 
-elevateU is a modern online job portal platform developed as a mini project for ** Web Programming**.  
+elevateU is a modern online job portal platform developed as a mini project for **Web Programming**.  
 The system connects **job seekers** and **employers** through a user-friendly web platform where users can build profiles, search for jobs, and apply online.
 
 ---
